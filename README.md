@@ -124,13 +124,3 @@ Assigned Tasks
 <!--RECENT_ACTIVITY:last_update-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
-
-<div align="center">
-<h5> Made with <picture>
-<source srcset="[https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp](https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp)" type="image/webp">
-<img src="[https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif](https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif)" alt="❤" width="12" height="12">
-</picture></h5>
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a43400b7-ae5f-46ce-9338-308dee07d136/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/344e6974-dc2a-42d6-9b1d-4718c8309692/Untitled.png)
